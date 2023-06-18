@@ -1,0 +1,28 @@
+p{
+	font-size: 50px;
+	color: lightgreen;
+	background-image: url(https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg);
+	background-size: cover;
+	text-align: center;
+
+}
+body{
+	background-image: url(https://media.tenor.com/JMzBeLgNaSoAAAAj/banana-dance.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+	background-size: 200px;
+}
+
+div{
+	width: 400px;
+	height: 400px;
+	background-image: url(https://media.tenor.com/JMzBeLgNaSoAAAAj/banana-dance.gif);
+	background-size: cover;
+	border-radius: 20% 40%;
+	border: dotted 10px red;
+}
+img{
+	margin: auto;
+	display: block;
+}

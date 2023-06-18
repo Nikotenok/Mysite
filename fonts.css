@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto+Slab:wght@100&family=Shantell+Sans:wght@300&display=swap');
+body{
+	background-color: chocolate;
+}
+p{
+	font-size: 50px;
+	color: grey;
+}
+.ex1{
+		font-family: Vardana, Arial, Helvetica, sans-serif;
+	}
+.ex2{
+	font-family: monospace;
+	font-weight: 700;
+}
+.ex3{
+	font-family: 'Pacifico', cursive;
+
+}
+.ex4{
+	font-family: 'Roboto Slab', serif;
+}
+.ex5{
+	font-family: 'Shantell Sans', cursive;
+}

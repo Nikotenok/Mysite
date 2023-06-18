@@ -1,0 +1,69 @@
+p{
+	border: solid 10px purple;
+	font-size: 50px;
+	display: inline;
+}
+span{
+	border: dotted 5px pink; 
+}
+li{
+	border: dashed 5px lime;
+	display: inline;
+}
+li:hover{
+	background-color: lightseagreen;
+}
+div#first{
+	border: double 10px fuchsia;
+	height: 30px;
+	width: 300px;
+	margin-left: 100px;
+	padding: 100px;
+}
+div#second{
+	width: 500px;
+	height: 500px;
+	border: ridge 10px aquamarine;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 100px;
+}
+div#third{
+	width: 500px;
+	height: 500px;
+	border: groove 10px blanchedalmond;
+}
+#fourth,#fifth{
+	background-color: lightsalmon;
+	height: 100px;
+	width: 700px;
+	border: dotted 5px yellow;
+ 	margin: 100px;
+}
+#six{
+	border: double 5px fuchsia;
+	height: 1000px;
+	width: 1000px;
+	justify-content: center;
+	display: flex;
+}
+#seven{
+	background-color: lightsalmon;
+	height: 800px;
+	width: 600px;
+	border: dotted 5px yellow;
+	justify-content: center;
+	display: flex;
+
+}
+#eight{
+	background-color: red;
+	height: 600px;
+	width: 500px;
+	border: dotted 5px green;
+	justify-content: center;
+	margin-top: 100px;
+	display: flex;
+
+}

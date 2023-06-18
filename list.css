@@ -1,0 +1,12 @@
+ul, ol, dl{
+	font-size: 24px;
+	color: darkblue;
+	padding-right: 30px;
+
+}
+ul li::marker{
+	color: red;
+}
+.mr li{
+	padding-left: 10px;
+}

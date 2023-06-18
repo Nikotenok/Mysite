@@ -1,0 +1,15 @@
+h1{
+	text-align: crnter;
+	font-size: 500;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+}
+p{
+	text-align: justify;
+	text-indent: 24px;
+	line-height: 24px;
+	word-spacing: 10px;
+}
+h2{
+	text-align: right;
+}

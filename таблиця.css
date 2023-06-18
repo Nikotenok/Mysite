@@ -1,0 +1,42 @@
+p{
+	font-size: 50px;
+	color: red;
+	text-align: ceter;
+}
+table{
+	border: double 2px yellow;
+	width: 50%;
+	font-size: 24px;
+	margin: auto;
+}
+th,td{
+	border: double 2px black;
+	width: 25%;
+	height: 1cm;
+}
+tr:hover{
+	background-color: lightgrey;
+}
+td:hover{
+	background-image: url(https://thumbs.gfycat.com/FavorableWearyAplomadofalcon-size_restricted.gif);
+	text-transform: uppercase;
+	background-size: cover;
+	font-weight: bold;
+	color: rgb(21, 42, 1);
+	text-align: center;
+	font-size: 1.2em;
+}
+tr:nth-child(even){
+	background-color: lightcyan;
+
+}
+tr:nth-child(odd){
+	background-color: darkgoldenrod;
+}
+caption{
+	background: linear-gradient(90deg,#000,#00f,#f00,#0f0,#ff0,#f0f,#0ff,#fff);
+	font-size: 50px;
+	color: goldenrod;
+	font-weight: bolder;
+	text-transform: uppercase;
+}

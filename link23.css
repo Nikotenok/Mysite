@@ -1,0 +1,81 @@
+p{
+	font-size: 50px;
+	color: yellow;
+	background-color: blue;
+}
+a.l1{
+	font-size: 32px;
+	font-family: cursive;
+	text-decoration-style: wavy;
+}
+.l1:active{
+	color: aqua;
+}
+.l1:visited{
+	color: pink;
+}
+.l1:hover{
+	background-color: violet;
+}
+.btn1{
+	width: 200px;
+	height: 80px;
+	font-size: 32px;
+	background-color: orange;
+	color: green;
+	border: solid 10px green;
+	border-radius: 10% 20%;
+}
+.btn1:hover{
+	background-color: green;
+	color: orange;
+	border: dashed 10px orange;
+	border-radius: 20% 10%;
+	font-weight: 900;
+	width: 240px;
+	box-shadow: 5px -5px orange;
+	transform: translateY(-10px);
+}
+ bold  italic
+Size
+Vertical Size: 
+16px
+Horizontal Size: 
+31px
+Border
+Border Radius: 
+28px
+Border Size: 
+1px
+ Box Shadow
+ Text Shadow
+Vertical Position: 
+1px
+Horizontal Position: 
+0px
+Blur Radius: 
+0px
+ prefix<a href="#" class="myButton">blue</a>
+
+.myButton {
+	background:linear-gradient(to bottom, #4555c7 5%, #2a65bd 100%);
+	background-color:#4555c7;
+	border-radius:28px;
+	border:1px solid #6019ab;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #392866;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #2a65bd 5%, #4555c7 100%);
+	background-color:#2a65bd;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}

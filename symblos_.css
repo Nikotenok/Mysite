@@ -1,0 +1,53 @@
+body{
+	background-color: lightgreen;
+}
+p{
+	font-size: 50px;
+	color: goldenrod;
+}
+.fs2{
+	font-weight: 700;
+	text-transform: lowercase;
+}
+.fs3{
+	font-style: oblique;
+	text-transform: uppercase;
+	word-spacing: 10px;
+}
+.fs4{
+	font-variant: small-caps;
+	letter-spacing: 5px;
+}
+.c1{
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-style: wavy;
+	text-decoration-color: greenyellow;
+}
+.c2{
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-style: dotted;
+	text-decoration-color: blanchedalmond;
+}
+.c3{
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-style: dotted;
+	text-decoration-color: blanchedalmond;
+	text-decoration-line: underline overline;
+}
+.f1{
+	text-shadow: 2px -2px 10px darkgoldenrod;
+}
+.f2{
+	text-shadow: 0 0 10px darkgoldenrod;
+}
+.f3{
+	font-size: 100px;
+	text-shadow: 2px -2px red, 4px -4px black;
+}
+.fl{
+	font-size: 2em;
+	font-weight: 700;
+}
